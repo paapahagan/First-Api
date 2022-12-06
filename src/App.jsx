@@ -1,6 +1,6 @@
 import "./App.css";
 
-import Comments from "./components/comments";
+import Comments from "./component/comments";
 
 function App() {
   return (
